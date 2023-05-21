@@ -1,0 +1,14 @@
+{
+  "icons": [
+    {
+      "src": "img/ageas-192.png",
+      "type": "img/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "img/ageas-512.png",
+      "type": "img/png",
+      "sizes": "512x512"
+    }
+  ]
+}
